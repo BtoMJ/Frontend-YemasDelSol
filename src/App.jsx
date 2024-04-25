@@ -18,7 +18,6 @@ import { Logoff } from "./components/logoff/log-off";
 import { Productiondesechos } from "./pages/production/options/desechos/p-desechos";
 import { Productionbajas } from "./pages/production/options/bajas/p-bajas";
 import { Dailydetails } from "./pages/production/options/detallesdia/p-dailydetails";
-import HomePage from "./components/home/homepage";
 
 function App() {
 
